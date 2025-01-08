@@ -1,0 +1,31 @@
+ALGORITMO DE ACORDAR.
+
+1-Abro os olhos.
+2-Olho pro lado.
+3-Se o alarme toca:
+	1. pego o celular.
+2.Desligo o alarme. 
+3.Coloco o celular ao lado do travesseiro. 
+4-Me espreguiço. 
+5-Levanto da cama. 
+6-Ando até o banheiro
+7-Retiro a parte de baixo das roupas. 
+8-Sento no vaso sanitário. 
+9-Me alivio. 
+10-Levanto do vaso sanitário.
+11-Coloco a roupa de baixo. 
+12-Ando até a pia. 
+13-Pego a escova de dente. 
+14-Pego a pasta de dente. 
+15-Coloca a pasta de dente na escola. 
+16-Solto a pasta de dente. 
+17-Escovo os dente. 
+18-Abro a torneira.
+19-Lavo a escova de dente
+20-Largo a escova no compartimento. 
+21-Coloco agua na boca. 
+22-Jogo fora a agua da boca. 
+23-Jogo agua no rosto. 
+24-Pego uma toalha. 
+25-Limpo o rosto com a toalha. 
+26-Vou andando ao quarto. 

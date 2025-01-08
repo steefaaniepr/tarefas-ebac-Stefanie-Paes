@@ -1,0 +1,3 @@
+O QUE É PROGRAMAÇÃO ORIENTADA A OBJETOS? 
+
+É a maneira de organizar o programa separando as entidades em objetos, que podem ser manipulados de forma independente e conectados entre si quando necessário. 

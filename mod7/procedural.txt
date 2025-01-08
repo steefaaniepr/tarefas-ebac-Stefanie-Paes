@@ -1,0 +1,3 @@
+O QUE É PROGRAMAÇÃO PROCEDURAL? 
+
+É a maneira de programar sequencialmente, em ordem cronológica e com início, meio e fim.
